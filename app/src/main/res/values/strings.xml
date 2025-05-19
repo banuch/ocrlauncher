@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ocrlauncher</string>
+    <string name="enter_service_id">Enter Service ID</string>
+    <string name="value_type">Value Type:</string>
+    <string name="enter_value_type">Enter Value Type</string>
+    <string name="launch_ocr_scanner">Launch OCR Scanner</string>
+    <string name="kwh">KWH</string>
+    <string name="_123456">123456</string>
+</resources>
